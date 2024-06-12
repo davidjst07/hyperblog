@@ -1,0 +1,5 @@
+David Sánchez
+edad 38 años
+empezando en programación
+
+Dificil aprender git
