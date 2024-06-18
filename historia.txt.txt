@@ -5,3 +5,5 @@ empezando en programación
 Dificil aprender git
 
 Hoy esta verde
+
+Hoy hablaremos de su vida
